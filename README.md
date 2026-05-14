@@ -1,0 +1,2 @@
+# docmint
+every academic publication
