@@ -1,15 +1,30 @@
-# ScholarStream: Academic Document Management System
+# Docmint - Academic Publication Management Platform
 
-ScholarStream is a comprehensive web-based platform designed for educational institutions, research organizations, and journals to streamline the lifecycle of scholarly manuscripts. From initial upload to final public discovery, the platform ensures quality control, academic integrity, and organized repository management.
+Docmint is a federated academic collaboration platform designed to unify research workflows, institutional governance, and knowledge discovery into one unified system. Built for universities, research centers, and colleges, it brings the entire scholarly lifecycle—projects, theses, journals, and reports—into a single, secure environment
 
 ## 🚀 Core Workflow
 The platform follows a rigorous four-step process to transition documents from local machines to institutional catalogs:
 
-1.  **Upload:** Securely bring PDFs into specific collections from local machines or institutional workflows.
-2.  **Assess:** Automated plagiarism detection and format compliance checks to ensure document quality before formal review.
-3.  **Review:** A collaborative workspace for assigning reviewers, capturing editorial decisions, and iterating on feedback.
-4.  **Publish:** Final approval and automated publication to the organization's public-facing catalog and discovery services.
+## 1. Publication Lifecycle Management
+   **Full Workflow:** Create drafts, submit for review, assign reviewers, and track decisions.
+    **Metadata Rich:** Full support for authors, supervisors, citations, version history, and rich academic tagging.
+    **Role-Based Access:**  Scoped access for students, researchers, reviewers, supervisors, and administrators.
 
+## 2. Federated Academic Architecture
+  **Identity & Workspaces:** Unified signup across multiple organizations with session-based workspace switching.
+  **Institutional Governance:** Define hierarchical organization units (departments, labs, faculties) and approval workflows.
+  **Data Separation:** Isolated workspaces for multi-organization support with integrated administrative analytics.
+
+## 3. Smart Repository & Discovery
+  **Hybrid Search:** Combines keyword and semantic search with advanced filters (dates, roles, categories).
+  **Automated Assessment**: Integrated plagiarism detection pipeline and institutional format validation.
+  **Public Catalog:** High-fidelity dedicated reader for published works with global discovery capabilities.
+  
+## 4. Collaboration Tools
+  **Reviewer Feedback:** Structured evaluation workflows and discussion threads.
+  **Personalized Feeds:** Researchers can bookmark items, track submission status, and manage review assignments.
+  **Supervisor Dashboard:** Real-time tracking of supervised students’ progress and research output.
+    
 ## ✨ Features
 - **Centralized Dashboard:** A clean user interface to manage personal publications, saved documents, and organization-wide settings.
 - **Advanced Search & Discovery:** Robust filtering and search capabilities to explore published academic works.
