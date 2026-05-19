@@ -13,6 +13,7 @@ test('Secure Login Test using .env file', async ({ page }) => {
   const password = process.env.USER_PASSWORD;
 
   await loginPage.login(email, password);
+  await page.pause({ timeout: 3000 }); // Pause to observe the result of the login action
 });
   
 

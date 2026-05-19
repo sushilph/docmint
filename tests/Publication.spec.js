@@ -26,6 +26,7 @@ test('Create Publication', async ({ page }) => {
   });
 
   await publicationPage.createPublication();
+  await page.pause({ timeout: 3000 }); // Pause to observe the result of the publication creation
 
   // await publicationPage.verifyPublicationVisible('Proposal TitleSix');
 

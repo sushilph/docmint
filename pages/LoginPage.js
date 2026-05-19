@@ -9,7 +9,7 @@ exports.LoginPage = class LoginPage {
   }
 
   async goto() {
-    await this.page.goto('/');
+    await this.page.goto('');
   }
 
   async login(email, password) {

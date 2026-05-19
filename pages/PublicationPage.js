@@ -103,7 +103,6 @@ export class PublicationPage {
   await this.page.locator('button:has(svg.lucide-trash-2)').first().click();
   
 }
- 
 
   async verifyPublicationVisible(title) {
     await expect(this.page.getByText(title)).toBeVisible();
